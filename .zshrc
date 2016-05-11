@@ -49,7 +49,7 @@ ZSH_THEME="steeef"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(autojump, aws, chucknorris, command-not-found, common-aliases, compleat, debian, dirhistory, docker, github, jsontools, npm, pip, python, sudot)
+plugins=(autojump aws chucknorris command-not-found common-aliases compleat debian dirhistory docker github jsontools npm pip python sudot)
 
 # User configuration
 
